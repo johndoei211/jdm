@@ -3697,6 +3697,16 @@
     },
 
     {
+        "name": "Dropsend",
+        "url": "https://myaccount.dropsend.com/account/cancel",
+        "difficulty": "impossible",
+        "notes": "Go the the link, and deactivate your account. But it can be reactivated again.",
+        "domains": [
+            "dropsend.com"
+        ]
+    },
+
+    {
         "name": "DTF",
         "url": "https://dtf.ru",
         "difficulty": "easy",
@@ -12257,6 +12267,16 @@
         "notes": "Visit the linked page. Scroll to the bottom of the page and click 'Delete account'. Select a reason for deleting and type a brief description of why.",
         "domains": [
             "sync.com"
+        ]
+    },
+
+    {
+        "name": "Syncplicity",
+        "url": "https://my.syncplicity.com/Account/",
+        "difficulty": "easy",
+        "notes": "Visit the URL. Then click 'cancel your account' to delete your account.",
+        "domains": [
+            "syncplicity.com"
         ]
     },
 
